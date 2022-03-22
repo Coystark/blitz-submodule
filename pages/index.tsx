@@ -67,7 +67,7 @@ const Home: BlitzPage = () => {
         </div>
         <p>
           <strong>
-            To add a new model to your app, <br />
+            test! To add a new model to your app, <br />
             run the following in your terminal:
           </strong>
         </p>
